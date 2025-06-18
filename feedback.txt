@@ -1,0 +1,10 @@
+tech:
+Next.js
+Tailwindcss
+mongodb
+next.auth
+prisma
+
+Używałem Github Copilot for VsCode dla szybkich komentarzy
+
+film jak to działa nagram dopiero 19.06.2025 (18 dostałem przerwę w dostawie internetu)
